@@ -1,0 +1,18 @@
+[
+  {
+    "package": "bulkAnalyseR",
+    "oncran": true
+  },
+  {
+    "package": "ClustAssess",
+    "oncran": true
+  },
+  {
+    "package": "feamiR",
+    "oncran": true
+  },
+  {
+    "package": "noisyr",
+    "oncran": true
+  }
+]
