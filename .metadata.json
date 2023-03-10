@@ -8,11 +8,10 @@
     "oncran": true
   },
   {
-    "package": "feamiR",
+    "package": "noisyr",
     "oncran": true
   },
   {
-    "package": "noisyr",
-    "oncran": true
+    "package": "feamiR"
   }
 ]
