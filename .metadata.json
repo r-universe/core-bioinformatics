@@ -4,14 +4,14 @@
     "oncran": true
   },
   {
-    "package": "noisyr",
+    "package": "ClustAssess",
     "oncran": true
   },
   {
     "package": "feamiR"
   },
   {
-    "package": "ClustAssess",
+    "package": "noisyr",
     "oncran": true
   }
 ]
