@@ -8,11 +8,6 @@
 	url = https://github.com/core-bioinformatics/bulkanalyser
 	shallow = true
 	registered = true
-[submodule "ClustAssess"]
-	path = ClustAssess
-	url = https://github.com/core-bioinformatics/clustassess
-	shallow = true
-	registered = true
 [submodule "noisyr"]
 	path = noisyr
 	url = https://github.com/core-bioinformatics/noisyr
@@ -21,5 +16,10 @@
 [submodule "feamiR"]
 	path = feamiR
 	url = https://github.com/core-bioinformatics/feamir
+	shallow = true
+	registered = true
+[submodule "ClustAssess"]
+	path = ClustAssess
+	url = https://github.com/core-bioinformatics/clustassess
 	shallow = true
 	registered = true
