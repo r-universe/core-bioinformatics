@@ -13,11 +13,6 @@
 	url = https://github.com/core-bioinformatics/clustassess
 	shallow = true
 	registered = true
-[submodule "feamiR"]
-	path = feamiR
-	url = https://github.com/core-bioinformatics/feamir
-	shallow = true
-	registered = true
 [submodule "noisyr"]
 	path = noisyr
 	url = https://github.com/core-bioinformatics/noisyr
