@@ -1,20 +1,13 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "bulkAnalyseR"]
 	path = bulkAnalyseR
 	url = https://github.com/core-bioinformatics/bulkanalyser
-	shallow = true
-	registered = true
 [submodule "ClustAssess"]
 	path = ClustAssess
 	url = https://github.com/core-bioinformatics/clustassess
-	shallow = true
-	registered = true
 [submodule "noisyr"]
 	path = noisyr
 	url = https://github.com/core-bioinformatics/noisyr
-	shallow = true
-	registered = true
