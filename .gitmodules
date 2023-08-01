@@ -2,12 +2,12 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "bulkAnalyseR"]
-	path = bulkAnalyseR
-	url = https://github.com/core-bioinformatics/bulkanalyser
 [submodule "ClustAssess"]
 	path = ClustAssess
 	url = https://github.com/core-bioinformatics/clustassess
+[submodule "bulkAnalyseR"]
+	path = bulkAnalyseR
+	url = https://github.com/core-bioinformatics/bulkanalyser
 [submodule "noisyr"]
 	path = noisyr
 	url = https://github.com/core-bioinformatics/noisyr
